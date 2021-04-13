@@ -152,7 +152,7 @@ public class admin {
               case 2:
                             System.out.println(" - Enter your the deposite amount");
                             amount = input.nextDouble();
-                             if (amount <= surplus) {
+                           
                              System.out.println(" ----> Your Deposit is = "+f.getdeposit(amount));
                            
                              System.out.println("********************************");
